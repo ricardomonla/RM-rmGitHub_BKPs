@@ -1,0 +1,24 @@
+https://docs.google.com/spreadsheets/d/DOCID/export?format=csv
+
+https://docs.google.com/spreadsheets/d/1lOdHAKVJDj3nFn8DVE1jurxsuJ9h4i4Bf79NzgW2Jf0/edit?usp=sharing
+
+https://docs.google.com/spreadsheets/d/1lOdHAKVJDj3nFn8DVE1jurxsuJ9h4i4Bf79NzgW2Jf0/export?format=pdf
+
+1461897417
+https://docs.google.com/spreadsheets/d/1JcuakhD7yE1XXZtgCiBEyj-mKa-C6aSgpq0-fWvEQGU
+https://docs.google.com/spreadsheets/d/1JcuakhD7yE1XXZtgCiBEyj-mKa-C6aSgpq0-fWvEQGU/pubhtml?widget=true&headers=true
+
+https://docs.google.com/spreadsheets/d/1M3ltmdUsyhCNbKLWLLNCrXTg6O5YGPdCh3AwrwHHkAk/pubhtml#
+https://docs.google.com/spreadsheets/d/1M3ltmdUsyhCNbKLWLLNCrXTg6O5YGPdCh3AwrwHHkAk/pubhtml?widget=true&headers=true
+
+The new Google spreadsheets use a different URL (just copy your <KEY>):
+
+    New sheet : https://docs.google.com/spreadsheets/d/<KEY>/pubhtml
+    CSV file : https://docs.google.com/spreadsheets/d/<KEY>/export?gid=<GUID>&format=csv
+
+The GUID of your spreadsheet relates to the tab number.
+
+/!\ You have to share your document using the Anyone with the link setting.
+
+
+
